@@ -1,8 +1,10 @@
 
 // This equates to the first digit of the combination
 const firstCombo = 100 % 49 * 4 +2;
+
 // This equates to the second digit of the combination
 const secondCombo = 2**4 * 4 - 24;
+
 // This equates to the third digit of the combination
 const thirdCombo = (10 + 3) * 4 - 13;
 
