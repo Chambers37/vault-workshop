@@ -9,4 +9,5 @@ const thirdCombo = (10 + 3) * 4 - 13;
 // The String to display to the user
 const userString = `You have received this message because you have been chosen to open an important vault. Here is the secret combination: ${firstCombo} - ${secondCombo} - ${thirdCombo}`
 
+// This pops up to the user to display the userString message
 alert(userString);
